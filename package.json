@@ -1,0 +1,21 @@
+{
+    "name": "deep-sea-theme",
+    "displayName": "Deep Sea Theme",
+    "description": "Theme based on the seabed with calm colors drawn to dark blue",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kaio Guilherme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kaio Guilherme-color-theme.json"
+            }
+        ]
+    }
+}
